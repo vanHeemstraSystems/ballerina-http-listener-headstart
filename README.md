@@ -54,4 +54,13 @@ public function main() {
 }
 ```
 
+Try running the new Ballerina package with the following command:
+
+```
+$ cd packagift
+$ bal run
+
+
+```
+
 more ...

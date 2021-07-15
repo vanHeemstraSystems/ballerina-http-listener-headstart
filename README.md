@@ -59,8 +59,12 @@ Try running the new Ballerina package with the following command:
 ```
 $ cd packagift
 $ bal run
+Compiling source
+  willemvanheemstra/pickagift:0.1.0
+  
+Running executable
 
-
+Hello World!
 ```
 
 more ...

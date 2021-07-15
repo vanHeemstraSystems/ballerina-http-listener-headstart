@@ -69,6 +69,8 @@ Hello World!
 
 Now we will be making use of the search API of [Apple](www.apple.com)'s online music store called "iTunes", as documented at https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 
+![iTunes_API](https://user-images.githubusercontent.com/12828104/125810436-f25a857b-02bd-47a3-b21f-3c656ba66d04.png)
+
 
 
 more ...

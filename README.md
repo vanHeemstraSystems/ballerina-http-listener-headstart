@@ -67,7 +67,7 @@ Running executable
 Hello World!
 ```
 
-Now we will be making use of the search API of [Apple](www.apple.com)'s online music store called "iTunes", as documented at https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-serach-api/
+Now we will be making use of the search API of [Apple](www.apple.com)'s online music store called "iTunes", as documented at https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 
 
 
